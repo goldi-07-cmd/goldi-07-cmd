@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/goldi-07-cmd/goldi-07-cmd/blob/main/Screenshot%202025-04-11%20184132.png)
 <h1 align="center">Hi 👋, I'm Goldi Kumari</h1>
 <h3 align="center">🎓 BCA Student | 💻 Passionate about Cybersecurity, DevOps, and Cloud Computing  
 🔐 Future Cloud Application Security Engineer | ☁️ Cloud Enthusiast</h3>

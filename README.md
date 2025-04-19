@@ -1,7 +1,7 @@
 ![logo](https://github.com/goldi-07-cmd/goldi-07-cmd/blob/main/Screenshot%202025-04-11%20184132.png)
 <h1 align="center">Hi 👋, I'm Goldi Kumari</h1>
-<h3 align="center">🎓 BCA Student | 💻 Passionate Data Analyst and Cloud Computing  
-🔐 Future 🔍 Data Analyst Engineer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">🎓 BCA Student | 💻 Passionate Data Analyst and Cloud Computing |
+🔐 Future Data Analyst Engineer | ☁️ Cloud Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amisha6828](https://linktr.ee/amisha6828)
 

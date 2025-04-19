@@ -1,15 +1,15 @@
 ![logo](https://github.com/goldi-07-cmd/goldi-07-cmd/blob/main/Screenshot%202025-04-11%20184132.png)
 <h1 align="center">Hi 👋, I'm Goldi Kumari</h1>
-<h3 align="center">🎓 BCA Student | 💻 Passionate about Cybersecurity, DevOps, and Cloud Computing  
-🔐 Future Cloud Application Security Engineer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">🎓 BCA Student | 💻 Passionate Data Analyst and Cloud Computing  
+🔐 Future 🔍 Data Analyst Engineer | ☁️ Cloud Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amisha6828](https://linktr.ee/amisha6828)
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am not funny😅**
 
 ## 💫 About Me
-- 🎯 Currently diving into the world of  Application Security and Cybersecurity  
-- 🚀 Learning and building projects around DevOps tools (Docker, GitHub Actions, CI/CD)  
+- 🎯 Currently diving into the world of 🔍 Data Analyst.  
+- 🚀 Learning and building projects around ......  
 - ☁️ Exploring Cloud Platforms (AWS, Azure, GCP)  
 - 💡 Constantly learning and experimenting with security best practices and automation
 
